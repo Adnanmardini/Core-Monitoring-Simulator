@@ -52,8 +52,3 @@ python gui_interface.py
 
 ## Contributing
 Contributions are welcome! Feel free to open issues and submit pull requests.
-
-## License
-This project is licensed under the MIT License.
-"# Core-Monitoring-Simulator" 
-"# Core-Monitoring-Simulator" 

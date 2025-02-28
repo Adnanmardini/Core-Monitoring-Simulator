@@ -1,0 +1,10 @@
+matplotlib       
+numpy            
+psutil           
+py-cpuinfo       
+flask            
+pyinstaller      
+threading2      
+logging         
+click          
+tk              
